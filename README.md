@@ -3,7 +3,7 @@
 ## ¿En qué consiste?
 El smishing es una estafa que se realiza por SMS o mensajes de WhatsApp. El estafador se hace pasar por una empresa o entidad conocida (banco, paquetería, administración) y envía un mensaje con un enlace o petición urgente. Al hacer clic o dar datos, la víctima pierde información personal o dinero.
 
-<img width="1000" height="667" alt="imagen" src="https://github.com/user-attachments/assets/d75bf786-8bb7-4849-9497-363c66f3b4df" />
+<img width="800" height="467" alt="imagen" src="https://github.com/user-attachments/assets/d75bf786-8bb7-4849-9497-363c66f3b4df" />
 
 
 
@@ -15,7 +15,7 @@ El smishing es una estafa que se realiza por SMS o mensajes de WhatsApp. El esta
 
 
  
-<img width="1080" height="513" alt="imagen" src="https://github.com/user-attachments/assets/17e930fc-7088-4275-ac0f-aab8872bc6ea" />
+<img width="880" height="413" alt="imagen" src="https://github.com/user-attachments/assets/17e930fc-7088-4275-ac0f-aab8872bc6ea" />
 
 
 
