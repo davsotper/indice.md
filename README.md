@@ -1,6 +1,6 @@
-# ESTAFA DE SMISHING
+# ⚠️ESTAFA DE SMISHING⚠️
 
-## ¿En qué consiste?
+## ¿En qué consiste? 
 El smishing es una estafa que se realiza por SMS o mensajes de WhatsApp. El estafador se hace pasar por una empresa o entidad conocida (banco, paquetería, administración) y envía un mensaje con un enlace o petición urgente. Al hacer clic o dar datos, la víctima pierde información personal o dinero.
 
 <img width="850" height="507" alt="imagen" src="https://github.com/user-attachments/assets/d75bf786-8bb7-4849-9497-363c66f3b4df" />
@@ -15,7 +15,7 @@ El smishing es una estafa que se realiza por SMS o mensajes de WhatsApp. El esta
 
 ## Ejemplo:
  
-<img width="880" height="413" alt="imagen" src="https://github.com/user-attachments/assets/17e930fc-7088-4275-ac0f-aab8872bc6ea" />
+<img width="800" height="350" alt="imagen" src="https://github.com/user-attachments/assets/17e930fc-7088-4275-ac0f-aab8872bc6ea" />
 
 
 
@@ -34,8 +34,11 @@ El smishing es una estafa que se realiza por SMS o mensajes de WhatsApp. El esta
 - Bloquear y reportar el mensaje.
 
 
+# NOTICIAS:
 
 
+- https://www.huffingtonpost.es/virales/confirmado-guardia-civil-media-espana-esta-recibiendo-sms-ultimos-dias-esto-hay-detras-el-f202601.html?utm_source=chatgpt.comsSVwELx4uJ
 
+- https://www.majorcadailybulletin.com/news/local/2025/12/22/139049/national-police-warns-new-smishing-scam-steal-bank-details-spain.html?utm_source=chatgpt.com
 
-https://youtu.be/8OFxf0gWQis?si=lszFS1sSVwELx4uJ
+- https://euroweeklynews.com/2025/08/14/summer-cyber-scams-spot-the-red-flags/?utm_source=chatgpt.com
