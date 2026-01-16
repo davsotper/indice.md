@@ -13,10 +13,6 @@ El smishing es una estafa que se realiza por SMS o mensajes de WhatsApp. El esta
 
  Otro indicio es que el remitente use un nombre genérico como “Banco”, “Seguridad”, “Soporte” o el nombre de una empresa conocida sin más detalles. Muchas veces estos mensajes tienen faltas de ortografía, frases mal escritas o traducciones extrañas.     Además, si recibes un aviso sobre un paquete, un pago o una cuenta que no esperabas o que no tienes, casi seguro se trata de una estafa.
 
-## Ejemplo:
- 
-<img width="800" height="350" alt="imagen" src="https://github.com/user-attachments/assets/17e930fc-7088-4275-ac0f-aab8872bc6ea" />
-
 
 
 ## ¿Cómo podemos evitarlo?
@@ -32,6 +28,17 @@ El smishing es una estafa que se realiza por SMS o mensajes de WhatsApp. El esta
 - Verificar la información entrando directamente en la web o app oficial.
 
 - Bloquear y reportar el mensaje.
+  
+## ¿Cómo los estafadores de smishing eligen a sus víctimas?
+
+ Los estafadores de smishing suelen enviar mensajes masivos a muchos números obtenidos al azar o de bases de datos filtradas. No eligen a una persona específica al inicio; la selección real ocurre cuando alguien responde o hace clic. Luego usan datos    básicos (edad, banco, compras recientes) para personalizar mensajes y hacerlos más creíbles, enfocándose en perfiles y situaciones comunes. Quienes interactúan quedan marcados como objetivos y reciben más intentos de estafa.
+
+  
+## Ejemplos:
+ 
+<img width="800" height="350" alt="imagen" src="https://github.com/user-attachments/assets/17e930fc-7088-4275-ac0f-aab8872bc6ea" />
+
+<img width="800" height="1000" alt="imagen" src="https://github.com/user-attachments/assets/b647e16a-4fee-44a8-a3aa-a0cf3d17c095" />
 
 
 # NOTICIAS:
@@ -40,5 +47,6 @@ El smishing es una estafa que se realiza por SMS o mensajes de WhatsApp. El esta
 - https://www.huffingtonpost.es/virales/confirmado-guardia-civil-media-espana-esta-recibiendo-sms-ultimos-dias-esto-hay-detras-el-f202601.html?utm_source=chatgpt.comsSVwELx4uJ
 
 - https://www.majorcadailybulletin.com/news/local/2025/12/22/139049/national-police-warns-new-smishing-scam-steal-bank-details-spain.html?utm_source=chatgpt.com
-
+  
 - https://euroweeklynews.com/2025/08/14/summer-cyber-scams-spot-the-red-flags/?utm_source=chatgpt.com
+  
