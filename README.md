@@ -32,8 +32,16 @@ El smishing es una estafa que se realiza por SMS o mensajes de WhatsApp. El esta
 ## ¿Cómo los estafadores de smishing eligen a sus víctimas?
 
  Los estafadores de smishing suelen enviar mensajes masivos a muchos números obtenidos al azar o de bases de datos filtradas. No eligen a una persona específica al inicio; la selección real ocurre cuando alguien responde o hace clic. Luego usan datos    básicos (edad, banco, compras recientes) para personalizar mensajes y hacerlos más creíbles, enfocándose en perfiles y situaciones comunes. Quienes interactúan quedan marcados como objetivos y reciben más intentos de estafa.
+## Qué hacer si caíste en mishing
+- Corta contacto con el estafador de inmediato.
 
+- Cambia contraseñas (banco, correo, redes).
+
+- Llama a tu banco y bloquea tarjetas/cuentas si diste datos.
+
+- Revisa tu teléfono (apps desconocidas, permisos).
   
+- Denuncia ante tu banco y la policía/cibercrimen.
 ## Ejemplos:
  
 <img width="800" height="350" alt="imagen" src="https://github.com/user-attachments/assets/17e930fc-7088-4275-ac0f-aab8872bc6ea" />
